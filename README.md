@@ -1,5 +1,5 @@
 # MakeFile
-> User : [tnard](https://profile.intra.42.fr/users/tnard/) - ?%
+> User : [tnard](https://profile.intra.42.fr/users/tnard/)
 
 # Use :
 > Change all <*> by your value. <br />
